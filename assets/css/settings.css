@@ -25,4 +25,20 @@
 
 #second-ul {
   width: 60%;
+}
+
+#logo-PP {
+  width: 25%;
+  height: 50%;
+  border: 2px solid black;
+  border-radius: 0.5em;
+  padding: 0.3em;
+  margin-right: 0.2em;
+  cursor: pointer;
+}
+
+#avatar {
+  width: 7%;
+  height: 50%;
+  margin-right: 0.3em;
 }/*# sourceMappingURL=settings.css.map */
