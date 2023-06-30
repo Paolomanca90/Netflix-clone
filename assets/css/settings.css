@@ -1,0 +1,28 @@
+.navbar-brand {
+  width: 10%;
+  margin: 0;
+}
+.navbar-brand #logo {
+  width: 100%;
+}
+
+#avatar {
+  width: 8%;
+}
+#avatar img {
+  width: 100%;
+}
+
+.dropdown {
+  width: 8%;
+}
+.dropdown a {
+  padding: 0;
+}
+.dropdown a img {
+  width: 100%;
+}
+
+#second-ul {
+  width: 60%;
+}/*# sourceMappingURL=settings.css.map */

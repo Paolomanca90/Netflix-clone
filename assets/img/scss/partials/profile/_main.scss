@@ -1,0 +1,29 @@
+h1{
+    font-size: 4em;
+    font-weight: 600;
+}
+
+h6{
+    width: 60%;
+    text-align: center;
+}
+
+label{
+    font-size: 0.9em;
+}
+
+button{
+    &:hover{
+        background-color: whitesmoke !important;
+        color: black !important;
+        font-weight: 500 !important;
+    }
+}
+
+#avatar{
+    cursor: pointer;
+}
+
+.fa-pen-square{
+    cursor: pointer;
+}
